@@ -1,0 +1,55 @@
+#headerSection {
+  background-color: #11344c;
+}
+
+#brand {
+  font-weight: 600;
+  color: white;
+  /* font-style: bold; */
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+#groups {
+  font-weight: 600;
+  color: #6ab04c;
+  font-style: italic;
+  font-family: cursive;
+}
+
+#headtext {
+  font-weight: 600;
+  font-style: bold;
+  font-family: cursive;
+}
+
+#loginSection {
+  padding: 8px;
+  border: 1px solid #cc00ad;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#regSection {
+  padding: 10px;
+  border: 1px solid #6ab04c;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#footerSection {
+  background-color: #6ab04c;
+}
+
+input[type="text"] {
+  border: 1px solid #6ab04c;
+}
+
+input[type="password"] {
+  border: 1px solid #6ab04c;
+}
+
+#imageBox {
+  border: 1px solid #01868d;
+  border-radius: 5px;
+}
