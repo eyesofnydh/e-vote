@@ -1,4 +1,3 @@
-# e-vote
 e-Vote: Online Voting System
 Overview
 e-Vote is a secure and user-friendly online voting system designed to facilitate electronic voting for various applications such as governmental elections, corporate shareholder meetings, and organizational decision-making processes. The system ensures the integrity, confidentiality, and accessibility of the voting process through advanced security measures and an intuitive interface.
