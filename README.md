@@ -1,7 +1,4 @@
-Certainly! Here’s the formatted README:
-
----
-
+-
 # e-Vote: Online Voting System
 
 ## Overview
